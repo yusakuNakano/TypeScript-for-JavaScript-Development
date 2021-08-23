@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yusakuNakano/TypeScript-for-JavaScript-Development/issues"
   },
-  "homepage": "https://github.com/yusakuNakano/TypeScript-for-JavaScript-Development#readme"
+  "homepage": "https://github.com/yusakuNakano/TypeScript-for-JavaScript-Development#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
