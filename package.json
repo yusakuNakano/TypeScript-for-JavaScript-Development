@@ -1,0 +1,20 @@
+{
+  "name": "TypeScript-for-JavaScript-Development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusakuNakano/TypeScript-for-JavaScript-Development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusakuNakano/TypeScript-for-JavaScript-Development/issues"
+  },
+  "homepage": "https://github.com/yusakuNakano/TypeScript-for-JavaScript-Development#readme"
+}
